@@ -1,0 +1,1 @@
+model,hardware,train_speed_gpu_img_s,infer_speed_gpu_img_s,train_speed_cpu_img_s,infer_speed_cpu_img_s,parameters_m,flops_b
