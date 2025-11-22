@@ -1,1 +1,6 @@
-dataset,year,total_samples,num_classes,source,data_type,resolution,label_type,class_balance
+Dataset,Year,Total Samples,Classes,Source,Data Type,Resolution,Label Type,Class Balance
+WM-811K,2018,"811,457",9,Real-world fab,Wafer Maps,Variable (6×21 to 300×202),Pass/Fail,14:1
+MixedWM38,2021,"38,015",38,Real+Synthetic,Wafer Maps,52×52,Multi-label,Balanced
+SECOM,2019,"1,567",2,Real-world fab,Sensor Data,590 features,Binary,14:1
+MIIC,2020,"25,276",15,Real SEM,SEM Images,High-resolution,Defect types,Imbalanced
+Synthetic-22,2018,"28,600",22,Generated,Wafer Maps,Variable,Multi-class,Balanced

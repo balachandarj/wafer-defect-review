@@ -1,1 +1,11 @@
-challenge,category,description,current_solutions,priority
+Challenge,Category,Description,Current Solutions,Priority
+Sub-5nm Detection,Technical,Stochastic defects below optical resolution limits,"EUV imaging, advanced computational techniques",High
+Real-time Processing,Technical,Inference time incompatible with production throughput,"Edge computing, model optimization, quantization",High
+Mixed-type Classification,Algorithmic,Multiple overlapping defect patterns,"Multi-label approaches, hierarchical classification",Medium
+Class Imbalance,Data,Rare defective samples in production data,"Advanced sampling, data augmentation, loss modifications",High
+False Positive Rates,Operational,Unnecessary wafer scrapping and yield loss,"Ensemble methods, confidence thresholding",High
+Limited Labeled Data,Data,Cost and expertise for manual annotation,"Active learning, semi-supervised approaches",Medium
+Domain Adaptation,Deployment,Models fail across different facilities/processes,"Transfer learning, domain adaptation strategies",Medium
+Integration Complexity,Industrial,Legacy system compatibility,"Standardized APIs, modular architectures",High
+Explainability,Regulatory,Black-box models lack interpretability,"Grad-CAM, attention visualization, inherent interpretability",Medium
+Computational Cost,Economic,High-performance hardware requirements,"Lightweight models, model compression",High
