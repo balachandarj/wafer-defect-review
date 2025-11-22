@@ -1,0 +1,12 @@
+Model,Architecture Type,Accuracy (%),Parameters,FLOPs,Dataset,Computational Cost
+Swin Transformer,Transformer,97.47,28.3M,4.5B,MixedWM38,High
+Vision Transformer (ViT),Transformer,96.77,86.3M,17.6B,MixedWM38,Very High
+ViT-Tiny,Transformer,98.4,5.7M,1.2B,WM-38k,Medium
+Ensemble Learning,Ensemble,99.7,100M+,16B+,WM-811K,Very High
+Autoencoder+CNN,Hybrid,98.56,23.8M,3.2B,WM-811K,High
+MobileNetV3,Lightweight CNN,98.0,3.2M,219M,WM-811K,Low
+EfficientNet V2-S,CNN,97.8,21.5M,8.8B,WM-811K,High
+ResNet50,CNN,97.19,25.0M,4.1B,WM-811K,High
+ShuffleNet-v2,Lightweight CNN,96.93,1.3M,146M,WM-811K,Low
+Random Forest,Traditional ML,79.5,,,WM-811K,Very Low
+SVM,Traditional ML,77.5,,,WM-811K,Very Low

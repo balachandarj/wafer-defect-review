@@ -1,0 +1,10 @@
+year,technology,category,accuracy_pct,defect_size_nm,label
+1985,Rule-based,Manual,74,3000,Rule-based
+1992,Auto Optical,Optical,77,1500,Auto Optical
+1998,E-beam SEM,E-beam,82,100,Scroll SEM
+2005,Digital Proc.,Digital,84,120,Digital Proc.
+2012,ML,ML,86,60,ML
+2016,Deep Learn CNN,DL,95,40,Deep Learn CNN
+2018,Advanced DL,Advanced DL,98,20,Advanced DL
+2020,Transformers,Transformers,101,10,Transformers
+2023,Hybrid & VLM,Modern AI,103,5,Hybrid & VLM

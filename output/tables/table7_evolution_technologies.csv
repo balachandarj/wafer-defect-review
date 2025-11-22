@@ -1,0 +1,10 @@
+Era,Technology,Key Features,Throughput,Min. Defect Size
+1980s,Rule-based Systems,"Statistical pattern matching, manual inspection",0.1-30 wph,3μm+
+1990s,Automated Optical,"Die-to-die comparison, TDI detectors",1-8 wph,0.4μm
+1995,E-beam SEM,High-resolution scanning electron microscopy,0.05 wph,100nm
+2000s,Digital Image Processing,"Advanced algorithms, higher throughput",30-50 wph,60-150nm
+2010s,Machine Learning,"SVM, Random Forest, feature engineering",Variable,Sub-100nm
+2015,Deep Learning CNN,"ResNet, DenseNet architectures",Real-time,10-50nm
+2018,Advanced CNN,"Lightweight models, transfer learning",Real-time,5-10nm
+2021,Transformer Era,"Vision Transformers, attention mechanisms",Real-time,3-5nm
+2024,Hybrid & VLM,"Multimodal, Vision-Language Models",Real-time,Sub-3nm
